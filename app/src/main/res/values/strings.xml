@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NFCTut</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtWrite">Write</string>
+    <string name="txtRead">Read</string>
+
+    <string name="tap_something">Tap an NFC tag</string>
+
+    <string name="title_activity_main">Read NFC tags</string>
+    <string name="content_description">Content</string>
+    <string name="nfc_setting">NFC is currently disabled in your settings. You cannot read or write NFC tags.</string>
+    <string name="title_activity_read">ReadActivity</string>
+    <string name="ClickToRead">Click to read Tag</string>
+    <string name="clickToRead">Click to read Tag</string>
+</resources>
